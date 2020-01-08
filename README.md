@@ -1,1 +1,1 @@
-# webstrapping-NSE-
+# web scrapping-NSE-
